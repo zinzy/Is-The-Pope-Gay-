@@ -2,7 +2,7 @@ body, html { font-size: 20px; }
 
 @media screen and (min-width: 1200px) { body, html { font-size: 30px; } }
 
-body { background: #ffe101 !important; color: #000; font-family: 'Syne', sans-serif; font-feature-settings: "kern", "liga", "onum"; -webkit-font-smoothing: antialiased; line-height: 170%; padding: 100px 40px; text-transform: uppercase; }
+body { background: #ffd5e8; background: linear-gradient(90deg, #ffd5e8 0%, #ffe4ba 100%); color: #000; font-family: 'Syne', sans-serif; font-feature-settings: "kern", "liga", "onum"; -webkit-font-smoothing: antialiased; line-height: 170%; padding: 100px 40px; text-transform: uppercase; }
 
 @media screen and (min-width: 1200px) { body { padding: 200px 0; } }
 
